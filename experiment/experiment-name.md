@@ -1,1 +1,1 @@
-## Experiment name
+## Interpolation: Cubic Bezier Interpolation
