@@ -1,0 +1,20 @@
+[
+   {
+      "question": "What is the value of x and y at u = 0.5 for given data? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:95%; margin-left:2.5%'' >",
+      "qid": 1,
+      "option_a": "x = 5.75, y = 58.13",
+      "option_b": "x = 9.27, y = 30.52",
+      "option_c": "x = 3.31, y = 46.61",
+      "option_d": "x = 7.42, y = 66.13",
+      "correct_option": "a"
+   },
+   {
+      "question": "What is the value of x and y at u = 0.25 for given data? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:95%; margin-left:2.5%'' >",
+      "qid": 2,
+      "option_a": "x = 5.32, y = 48.67",
+      "option_b": "x = 3.28, y = 56.89",
+      "option_c": "x = 9.5, y = 67.78",
+      "option_d": "x = 2.43, y = 45.67",
+      "correct_option": "b"
+   }
+]
